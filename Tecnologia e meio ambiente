@@ -424,9 +424,7 @@
                 <h4 class="member-name">Ana Carolina Sena </h4>
                 <p class="member-role">Designer</p>
                 <p class="member-bio">Responsável pelo design gráfico e Atriz </p>
-                <div class="member-social">
-              
-                </div>
+               
             </div>
             
         
@@ -435,9 +433,7 @@
                 <h4 class="member-name">Emanoele  Conceição </h4>
                 <p class="member-role">Redatora</p>
                 <p class="member-bio">Roterista e Atriz </p>
-                <div class="member-social">
-                  
-                </div>
+               
             </div>
             
   
@@ -446,9 +442,7 @@
                 <h4 class="member-name">Gabriela Pereira</h4>
                 <p class="member-role">Especialista em Tecnologia</p>
                 <p class="member-bio">Responsável pela criação do site e Atriz</p>
-                <div class="member-social">
-                 
-                </div>
+              
             </div>
             
           
@@ -457,9 +451,7 @@
                 <h4 class="member-name">Karina Oliver</h4>
                 <p class="member-role">Revisora</p>
                 <p class="member-bio"> Roterista e Atriz</p>
-                <div class="member-social">
-                 
-                </div>
+             
             </div>
             
        
@@ -468,9 +460,7 @@
                 <h4 class="member-name">Luis Otávio Miranda</h4>
                 <p class="member-role">Roterista principal</p>
                 <p class="member-bio">Roterista e Ator</p>
-                <div class="member-social">
-                
-                </div>
+              
             </div>
             
     
@@ -479,9 +469,7 @@
                 <h4 class="member-name">Maria Cecilia Nunes</h4>
                 <p class="member-role">Designer</p>
                 <p class="member-bio">Responsável pelo design gráfico e Atriz</p>
-                <div class="member-social">
-                
-                </div>
+               
             </div>
             
          
@@ -490,9 +478,7 @@
                 <h4 class="member-name">Maria eduarda Falcão</h4>
                 <p class="member-role">Editora Audiovisual</p>
                 <p class="member-bio">Responsável pela edição e Narradora</p>
-                <div class="member-social">
-                
-                </div>
+            
             </div>
         </div>
     </section>
